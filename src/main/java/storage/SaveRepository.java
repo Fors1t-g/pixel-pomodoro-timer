@@ -1,4 +1,4 @@
 package storage;
 
-public class SaveRepository {
+public interface SaveRepository {
 }
