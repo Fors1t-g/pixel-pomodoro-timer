@@ -4,6 +4,6 @@ module org.example.timer {
 
     requires org.kordamp.bootstrapfx.core;
 
-    opens org.pomodoro.timer to javafx.fxml;
-    exports org.pomodoro.timer;
+    opens app to javafx.fxml;
+    exports app;
 }
