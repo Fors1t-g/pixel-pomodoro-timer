@@ -3,6 +3,7 @@ package app;
 import model.UserProgress;
 import service.*;
 
+// контекст
 public class AppContext {
 
     private final UserProgress userProgress;
